@@ -1,0 +1,8 @@
+template_lib: '/global/cscratch1/sd/koposov/templates/templ_data_v210117/'
+min_vel: -1000
+max_vel: 1000
+vel_step0: 5
+min_vel_step: 0.2
+min_vsini: 0.01
+max_vsini: 500
+second_minimizer: 1
